@@ -170,7 +170,6 @@ vless://06a1719f-417e-46f0-8a7d-e2b13ecf893a@43.203.249.214:39295?type=tcp&secur
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@103.192.179.132:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@103.74.192.228:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=%2Fproxyip%3Dproxyip.cmliussss.net
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@138.128.192.254:2053?fp=chrome&headertype=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@138.128.192.254:2053?headertype=&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@138.128.192.254:2053?type=ws&security=tls&fp=chrome&sni=sni.skylee4.cloudns.ch&host=sni.skylee4.cloudns.ch
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@143.42.66.91:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@149.104.6.78:8443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F
@@ -194,6 +193,7 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?encryption=none&s
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?headertype=none&host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?host=sn1.skylee5.cloudns.ch&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&security=tls
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.183:443?type=ws&security=tls&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@38.147.187.14:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F
@@ -5836,6 +5836,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?allowInsecure=0&sni=
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=/fp=randomized
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-k.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=/fp=randomized
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?allowInsecure=0&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=/fp=randomized
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?&fp=randomized&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&type=ws&headerType=none&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=%2F
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?&type=ws&headerType=none&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&path=%2F
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?allowInsecure=0&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=/fp=randomized
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?allowInsecure=0&sni=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&type=ws&host=fuckingfangbinxing.cnmfangbinxing-n.workers.dev&path=/fp=randomized
@@ -7404,6 +7405,7 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.10.136:446?mode=gun&amp;secu
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.6.178:444?encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=ads.x5.ru&amp;security=reality&amp;sni=ads.x5.ru&amp;pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&amp;sid=0614386789abcdef&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:444?encryption=none&amp;type=grpc&amp;mode=gun&amp;serviceName=ads.x5.ru&amp;security=reality&amp;fp=chrome&amp;sni=ads.x5.ru&amp;pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&amp;sid=0614386789abcdef&amp;spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn
 vless://c495cf08-e046-4311-aa4b-82cc16576992@all.adr-cloud.ru:444?mode=gun&security=reality&encryption=none&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0614386789abcdef
+vless://c4d69096-4026-4da5-9485-20a3da91cb14@176.124.214.235:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=login.vk.com&pbk=NhsyjpnYcDfpRfyX2m47AsoHDX_boKi9e1lKOkFNsgE&sid=12a73c72
 vless://c4d69096-4026-4da5-9485-20a3da91cb14@176.124.214.235:443?type=grpc&security=reality&fp=random&pbk=NhsyjpnYcDfpRfyX2m47AsoHDX_boKi9e1lKOkFNsgE&sid=12a73c72&sni=login.vk.com&mode=gun&serviceName=grpc&authority=
 vless://c4d69096-4026-4da5-9485-20a3da91cb14@78.140.246.103:7443?security=reality&type=grpc&fp=firefox&sni=www.microsoft.com&pbk=UnlR_TTweEWQK9iL1Tbp3FP9DylNXbF4oOHORN1X6mI&serviceName=grpc&sid=761a08c6
 vless://c4d69096-4026-4da5-9485-20a3da91cb14@78.140.246.103:7443?type=grpc&security=reality&fp=firefox&pbk=UnlR_TTweEWQK9iL1Tbp3FP9DylNXbF4oOHORN1X6mI&sid=761a08c6&sni=www.microsoft.com&serviceName=grpc
