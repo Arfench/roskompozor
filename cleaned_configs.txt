@@ -6675,6 +6675,7 @@ vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&amp;encr
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&encryption=none&headerType=none&type=tcp
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&type=tcp&sni=3.71.187.131&encryption=none
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none&encryption=none
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&security=none&encryption=none&sni=3.71.187.131
 vless://8f04eb0a-ea34-4f84-9b76-5cf0ae269a0d@2.us.chuanyun-endpoint.cc:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=bPWYKbrqhwVN4Uq88NJ2m-gGsIxpQC2_xCNtxGZcky0&sid=90c1e62ac9&sni=learn.microsoft.com&servername=learn.microsoft.com&spx=%2F&fp=chrome
 vless://8f0dc339-b506-47a6-9cb8-df099135730e@grinoree.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=random&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none
 vless://8f146322-2c19-469c-96f2-6113105003af@84.252.143.25:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=yandex.ru&type=tcp
@@ -11488,6 +11489,7 @@ vless://v2raydia@89.124.69.82:1310?path=%2F%40v2raydia--%40v2raydia--%40v2raydia
 vless://v2raydia@89.124.69.82:1310?type=ws&headerType=none&security=none&encryption=none&path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&host=play.google.com
 vless://viapouria@104.20.6.134:443?type=xhttp&encryption=none&path=/&host=two.borna-lbop.ir&mode=auto&security=tls&fp=chrome&alpn=h2,http/1.1&sni=two.borna-lbop.ir
 vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&fp=chrome&sni=zieng2.org&sid=d3&spx=%2F&flow=xtls-rprx-vision
+vless://xxxxxxxxxx1@localhost:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xx.xx&fp=chrome&pbk=1111111111111111111111111111111111111111111&sid=26a70553&spx=%2F&type=tcp&headerType=none
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision
 vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&type=tcp
 vmess://df9c9355-b02c-4c12-909d-0dbeb725d52b@renderer-stream-1-411.mirra.now:443?encryption=auto&type=ws&security=tls&path=/api/v1/gpu-stream/socket&sni=renderer-stream-1-411.mirra.now
