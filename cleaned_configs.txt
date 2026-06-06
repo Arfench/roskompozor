@@ -5357,7 +5357,6 @@ vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?type=tcp&security
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@91.225.217.94:443?type=tcp&security=tls&path=%2F&sni=api-maps.yandex.ru&encryption=none
 vless://69b578b6-6167-447d-a82c-033928da5e03@212.233.122.244:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=static.rutube.ru&pbk=1BAG3ZcDThZ_tEFyPAaxh5EfY5RyK8D8CIHplP-qXmc&sid=9a62a7103e3791eb
 vless://69b578b6-6167-447d-a82c-033928da5e03@212.233.122.244:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=static.rutube.ru&pbk=1BAG3ZcDThZ_tEFyPAaxh5EfY5RyK8D8CIHplP-qXmc&sid=9a62a7103e3791eb&spx=%2F
-vless://69b578b6-6167-447d-a82c-033928da5e03@212.233.122.244:443?security=reality&type=tcp&sni=static.rutube.ru&fp=chrome&flow=xtls-rprx-vision&sid=9a62a7103e3791eb&pbk=1BAG3ZcDThZ_tEFyPAaxh5EfY5RyK8D8CIHplP-qXmc&encryption=none
 vless://69be8315-97a7-4cc0-a2db-987d990be5e1@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a
 vless://69c115fd-ddd9-4d7f-bd90-6f34c810cf0e@104.21.91.32:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v2configlab.v2configlab5.workers.dev&path=%2F&security=tls&sni=v2configlab.v2configlab5.workers.dev&type=ws
 vless://69c115fd-ddd9-4d7f-bd90-6f34c810cf0e@172.67.165.94:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v2configlab.v2configlab5.workers.dev&path=%2F&security=tls&sni=v2configlab.v2configlab5.workers.dev&type=ws
@@ -7299,7 +7298,6 @@ vless://90db3180-44d7-4964-a568-fe25aa2265eb@84.201.176.45:443?flow=xtls-rprx-vi
 vless://91427003-38cb-473e-95f2-a4b500c91f7b@176.97.210.14:443?type=tcp&headerType=none&security=reality&encryption=none&sni=germany.milas.click&fp=random&pbk=pJpaRasoceUeRDJTXEZNnKT3yW5IocPXudB_B7_rBR0&sid=4fa44664f6a566d3&spx=%2F&flow=xtls-rprx-vision
 vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs
 vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&spx=%2F
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&spx=/
 vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&security=reality&sni=ads.x5.ru&spx=%2F&type=tcp
 vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?flow=xtls-rprx-vision&fp=chrome&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&security=reality&sni=ads.x5.ru&type=tcp
 vless://91427003-38cb-473e-95f2-a4b500c91f7b@51.250.43.93:443?security=reality&encryption=none&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru
@@ -12120,6 +12118,7 @@ vless://turboo-server@104.156.85.243:80?path=%2Fed%3D2056&security=none&encrypti
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096
 vless://viapouria@104.20.6.134:443?type=http&encryption=none&path=%2F&host=two.borna-lbop.ir&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=two.borna-lbop.ir
 vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&fp=chrome&sni=zieng2.org&sid=d3&spx=%2F&flow=xtls-rprx-vision
+vless://xxxxxxxxxx1@localhost:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xx.xx&fp=chrome&pbk=1111111111111111111111111111111111111111111&sid=26a70553&spx=%2F&type=tcp&headerType=none
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision
 vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&type=tcp
 vmess://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto&type=tcp
