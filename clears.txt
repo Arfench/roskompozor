@@ -436,6 +436,7 @@ vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.240:443?flow=xtls-rprx-vi
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.249.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.249.53:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ
+vless://0661e288-29aa-4a8a-85b8-bb56d42f023e@84.201.177.246:3000?encryption=none&type=xhttp&security=reality&path=/api/v2/config/sync&mode=auto&extra={
 vless://06778d23-024a-4897-8d30-44d48a996487@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a
 vless://06778d23-024a-4897-8d30-44d48a996487@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a
 vless://0687273a-23e8-4735-97c2-db4d88cc0f6d@193.178.226.177.blanesik.space:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=grpc.vhub.pro&echfq=none&fp=edge&allowinsecure=0&type=grpc&serviceName=%2Fsequre%2Fgrpc&sni=193.178.226.177.blanesik.space
@@ -8325,7 +8326,6 @@ vless://8ef7f7c1-f8fd-00fa-a41e-bd6a44ccc3aa@84.201.175.97:443?encryption=none&f
 vless://8ef7f7c1-f8fd-0114-a41e-bd6a44ccc3aa@ads.convix-kino.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Prr6JvDC5zYwU0lKszA8VpWU9mglYdRAW2VlnCL83TE&type=tcp
 vless://8ef7f7c1-f8fd-017c-a41e-bd6a44ccc3aa@ads.convix-kino.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=Prr6JvDC5zYwU0lKszA8VpWU9mglYdRAW2VlnCL83TE&type=tcp
 vless://8ef7f7c1-f8fd-0210-a41e-bd6a44ccc3aa@ads.convix-kino.com:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&flow=xtls-rprx-vision&pbk=Prr6JvDC5zYwU0lKszA8VpWU9mglYdRAW2VlnCL83TE
-vless://8f0b1402-4ca7-48a8-8a4e-9c896b0d5908@84.201.177.246:3000?encryption=none&type=xhttp&security=reality&path=/api/v2/config/sync&mode=auto&extra={
 vless://8f0dc339-b506-47a6-9cb8-df099135730e@grinoree.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=random&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&type=tcp&headerType=none
 vless://8f146322-2c19-469c-96f2-6113105003af@84.252.143.25:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=yandex.ru&type=tcp
 vless://8f146322-2c19-469c-96f2-6113105003af@87.239.106.153:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=m.vk.ru&type=tcp
@@ -13654,5 +13654,4 @@ vless://turboo-server@104.156.85.243:80?path=%2Fed%3D2056&security=none&encrypti
 vless://viapouria@104.20.6.134:443?type=http&encryption=none&path=%2F&host=two.borna-lbop.ir&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=two.borna-lbop.ir
 vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&fp=chrome&sni=zieng2.org&sid=d3&spx=%2F&flow=xtls-rprx-vision
 vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co
-vless://xxxxxxxxxx1@localhost:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xx.xx&fp=chrome&pbk=1111111111111111111111111111111111111111111&sid=26a70553&spx=%2F&type=tcp&headerType=none
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision
