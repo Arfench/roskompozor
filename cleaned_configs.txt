@@ -6949,7 +6949,6 @@ vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@51.250.66.119:443?flow=xtls-rprx-vi
 vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@51.250.66.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=XRo267CzH105Z2-hZpS1mpq_Ul2JeJUo6HP5tEEwCxY&sid=51fe69188d5dc580&spx=%2F
 vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@51.250.66.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=qcIX4MLWztJdONWaGzZBXZwXV2Yfv3EO6h8-Vkdx1wU&security=reality&sid=63c6cfc2ec6358dd&sni=smartcaptcha.yandexcloud.net&type=tcp
 vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@84.201.167.190:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=vffVSILmcC4J4EcoKf5ZBhqGXA1u356YqQaBh97_OBQ&sid=27e53bbcab7593d1
-vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@84.201.167.190:443?flow=xtls-rprx-vision&fp=chrome&pbk=MX_HmJw-Auo8vAkcyM_5C8FzdQ42PPfh-LveTdg6P3c&security=reality&sid=27e53bbcab7593d2&sni=api-maps.yandex.ru&type=tcp
 vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@84.201.167.190:443?flow=xtls-rprx-vision&fp=firefox&pbk=MX_HmJw-Auo8vAkcyM_5C8FzdQ42PPfh-LveTdg6P3c&security=reality&sid=27e53bbcab7593d2&sni=api-maps.yandex.ru&type=tcp
 vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@84.201.167.190:443?flow=xtls-rprx-vision&fp=firefox&pbk=vffVSILmcC4J4EcoKf5ZBhqGXA1u356YqQaBh97_OBQ&security=reality&sid=27e53bbcab7593d1&sni=smartcaptcha.yandexcloud.net&type=tcp
 vless://87a61ee1-f6eb-48b4-ac90-c255ce067a07@84.201.170.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=A-Osft0F8ZlHRA6D3rjuEebeac_-vGIOZkrTOdEZjiA&sid=f9b6823bf4858816
@@ -12674,6 +12673,7 @@ vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79
 vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co
 vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?type=tcp&headerType=none&security=tls&encryption=none&sni=winq35461s-19523160106-direct.irgame.co&fp=randomized&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0
 vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&sni=winq35461s-19523160106-direct.irgame.co&fp=randomized&flow=xtls-rprx-vision
+vless://xxxxxxxxxx1@localhost:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xx.xx&fp=chrome&pbk=1111111111111111111111111111111111111111111&sid=26a70553&spx=%2F&type=tcp&headerType=none
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision
 vmess://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?encryption=auto&type=tcp
 vmess://df9c9355-b02c-4c12-909d-0dbeb725d52b@renderer-stream-1-411.mirra.now:443?encryption=auto&type=ws&security=tls&path=/api/v1/gpu-stream/socket&sni=renderer-stream-1-411.mirra.now
