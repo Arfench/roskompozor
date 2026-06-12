@@ -3921,6 +3921,7 @@ vless://58d3d960-dfba-4f6d-908d-f4696686867f@186.246.19.122:443?type=grpc&securi
 vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs
 vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&spx=%2F
 vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&spx=/
+vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&fp=firefox&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&security=reality&sni=ads.x5.ru&spx=%2F&type=tcp
 vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&fp=firefox&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&security=reality&sni=ads.x5.ru&type=tcp
 vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&sni=ads.x5.ru
 vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs&sni=ads.x5.ru&spx=/
@@ -10578,6 +10579,7 @@ vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?encryption=none&
 vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?type=grpc&security=reality&fp=chrome&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048&sni=loadtest.dev.urent.ru&mode=gun&serviceName=grpc
 vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?type=grpc&security=reality&fp=chrome&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048&sni=loadtest.dev.urent.ru&serviceName=grpc
 vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?type=grpc&security=reality&fp=qq&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048&sni=loadtest.dev.urent.ru&mode=gun&serviceName=grpc
+vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?alpn=http%252F1.1&flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&security=reality&sid=689def22fcb54e86&sni=loadtest.dev.urent.ru&type=tcp
 vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86
 vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86
 vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86&sni=loadtest.dev.urent.ru
@@ -12661,4 +12663,5 @@ vless://turboo-server@104.156.85.243:80?path=%2Fed%3D2056&security=none&encrypti
 vless://warning@0.0.0.0:1?type=tcp&security=reality&pbk=dE3wtv44FXcZGAp0MYiYYa79z_JlcVNmPN5t8qa0cTs&fp=chrome&sni=zieng2.org&sid=d3&spx=%2F&flow=xtls-rprx-vision
 vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=winq35461s-19523160106-direct.irgame.co
 vless://winq35461s@winq35461s-19523160106-direct.irgame.co:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=randomized&sni=winq35461s-19523160106-direct.irgame.co
+vless://xxxxxxxxxx1@localhost:444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xx.xx&fp=chrome&pbk=1111111111111111111111111111111111111111111&sid=26a70553&spx=%2F&type=tcp&headerType=none
 vless://xxxxxxxxxx1@localhost:444?type=tcp&security=reality&pbk=1111111111111111111111111111111111111111111&fp=chrome&sni=xx.xx&sid=26a70553&spx=%2F&flow=xtls-rprx-vision
