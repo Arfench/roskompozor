@@ -1167,7 +1167,6 @@ vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?security=realit
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?type=tcp&security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&sni=tradingview.com
 vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2083?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
 vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
 vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc
 vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?type=grpc&headerType=none&security=reality&encryption=none&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality
 vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@176.119.147.178:2083?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
@@ -8656,6 +8655,7 @@ vless://AlfredConfig@104.17.107.134:443?encryption=none&type=ws&host=alfi.yas-no
 vless://AlfredConfig@159.246.55.251:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0
 vless://AlfredConfig@159.246.55.251:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir
 vless://AlfredConfig@164.38.155.135:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0
+vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=%2F&host=alfi.yas-nowin.ir
 vless://AlfredConfig@164.38.155.135:443?type=ws&security=tls&fp=chrome&sni=alfi.yas-nowin.ir&path=/&host=alfi.yas-nowin.ir
 vless://AlfredConfig@199.181.197.176:443?type=ws&headerType=none&security=tls&encryption=none&sni=alfi.yas-nowin.ir&fp=chrome&alpn=http%2F1.1&path=%2F&host=alfi.yas-nowin.ir&insecure=0
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=http&allowInsecure=0&sni=global.fastly.com
