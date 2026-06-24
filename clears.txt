@@ -521,6 +521,7 @@ vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&f
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&sni=www.google.com&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11&type=tcp&flow=xtls-rprx-vision&encryption=none
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11&sni=www.google.com
+vless://09a61668-5802-4b2e-ae84-d7ca482cac1d@ru.verymad.net:20468?type=tcp&security=reality&encryption=none&fp=firefox&pbk=fZN3RaPoUpvSEE07sPTzvQva27vY3ooA3RYci5KL42Q&sid=a198d287017f32&sni=www.vk.com&spx=/LSiXfaHGN6JNCKm
 vless://09b17553-3f4c-4e64-9b46-2329b8b3db10@87.228.101.211:443?type=tcp&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F&flow=xtls-rprx-vision&headerType=none&allowInsecure=1
 vless://0a0746d7-b13d-431c-bfb5-d981d1566d13@51.250.7.246:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=%2F
 vless://0a12381a-e241-4b63-a03c-1a5a45a95977@185.86.147.209:443?type=http&security=reality&sni=vk.com&fp=firefox&pbk=6IphheVqBS7n6Z_GMobp0IezWgotxGAeZpaPbUSOAC0&sid=af77654db0c3d9fc
@@ -648,25 +649,18 @@ vless://0e268ef4-a17c-4be7-be64-a29b4660d9ac@51.250.7.246:443?encryption=none&ty
 vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N--0r-eUKZ-23lmSHvsC4ywFbsAWRahFtxv_N02AgFY&security=reality&sid=df2becfa7b040c78&sni=usa.ldtp.com&type=tcp
 vless://0e5468e1-01f6-4000-8883-16716722a672@176.108.242.74:443?fp=edge&pbk=mSQkiY0efdTVL2Pw-xQ3pMPKbk-sMYtFe6yJv6TyWkU&security=reality&sni=pimg.mycdn.me&type=xhttp
 vless://0e5468e1-01f6-4000-8883-16716722a672@178.154.215.33:443?encryption=none&type=xhttp&security=reality&extra=null&fp=edge&sni=5post-gate.x5.ru%3A443&pbk=S0GxtKvJarU_vHObNJXhnY9WnNmVrMgzOn6IMKK95UA&sid=909090
-vless://0e5468e1-01f6-4000-8883-16716722a672@178.154.215.33:443?fp=edge&pbk=S0GxtKvJarU_vHObNJXhnY9WnNmVrMgzOn6IMKK95UA&security=reality&sid=909090&sni=5post-gate.x5.ru%3A443&type=xhttp
-vless://0e5468e1-01f6-4000-8883-16716722a672@185.86.147.221:8443?fp=edge&pbk=C8wnbly83A7W-NQnkVqRCTdhYl9z8oGPN0w0T3UGyhY&security=reality&sid=aaaa&sni=eh.vk.com&type=xhttp
 vless://0e5468e1-01f6-4000-8883-16716722a672@213.219.212.222:7443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=api-maps.yandex.ru&pbk=C8wnbly83A7W-NQnkVqRCTdhYl9z8oGPN0w0T3UGyhY&sid=aaaa
-vless://0e5468e1-01f6-4000-8883-16716722a672@213.219.212.222:7443?fp=edge&pbk=C8wnbly83A7W-NQnkVqRCTdhYl9z8oGPN0w0T3UGyhY&security=reality&sid=aaaa&sni=api-maps.yandex.ru&type=xhttp
 vless://0e5468e1-01f6-4000-8883-16716722a672@51.250.1.203:443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=5post-gate.x5.ru%3A443&pbk=S0GxtKvJarU_vHObNJXhnY9WnNmVrMgzOn6IMKK95UA&sid=909090
 vless://0e5468e1-01f6-4000-8883-16716722a672@51.250.1.203:443?encryption=none&type=xhttp&security=reality&extra=null&fp=firefox&sni=5post-gate.x5.ru%3A443&pbk=S0GxtKvJarU_vHObNJXhnY9WnNmVrMgzOn6IMKK95UA&sid=909090
-vless://0e5468e1-01f6-4000-8883-16716722a672@51.250.1.203:443?fp=edge&pbk=S0GxtKvJarU_vHObNJXhnY9WnNmVrMgzOn6IMKK95UA&security=reality&sid=909090&sni=5post-gate.x5.ru%3A443&type=xhttp
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=max.ru&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=max.ru&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&__rand=fb2935f5
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=max.ru&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa&seq=you_are_beautiful2450
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?encryption=none&type=xhttp&security=reality&extra=null&fp=firefox&sni=max.ru&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&sid=aaaa
-vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?fp=edge&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&security=reality&sid=aaaa&sni=max.ru&type=xhttp
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?fp=firefox&security=reality&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&encryption=none&sid=aaaa&extra=null&type=http&sni=max.ru
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?security=reality&sni=max.ru&encryption=none&type=http&sid=aaaa&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&extra=null&fp=firefox&seq=you_are_beautiful2315
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?sid=aaaa&type=http&encryption=none&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&security=reality&sni=max.ru&fp=firefox&extra=null
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?type=http&extra=null&security=reality&encryption=none&sni=max.ru&sid=aaaa&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&fp=firefox&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F5d4b5f
 vless://0e5468e1-01f6-4000-8883-16716722a672@79.174.95.115:8443?type=http&sni=max.ru&security=reality&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&extra=null&encryption=none&sid=aaaa&fp=firefox&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F656e49
-vless://0e5468e1-01f6-4000-8883-16716722a672@84.201.162.130:7443?fp=edge&pbk=nLVAbXs5asAkKffn3oQy27DEusg68QUvJ7Fy8I-KVmk&security=reality&sid=aaaa&sni=api-maps.yandex.ru&type=xhttp
-vless://0e5468e1-01f6-4000-8883-16716722a672@87.239.107.50:8443?fp=edge&pbk=C8wnbly83A7W-NQnkVqRCTdhYl9z8oGPN0w0T3UGyhY&security=reality&sid=aaaa&sni=eh.vk.com&type=xhttp
 vless://0e64c831-f511-4ff8-a3d3-79ce0c37c30c@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api.yandex.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=%2F
 vless://0e72c664-494a-4c53-bb77-c8ec025568bb@185.91.53.116:443?encryption=none&type=http&security=reality&path=%2Fapi%2Fv2%2F&mode=packet-up&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22packet-up%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=edge&sni=eda.yandex.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=75f67f6360c74009
 vless://0e72c664-494a-4c53-bb77-c8ec025568bb@188.68.218.110:443?encryption=none&type=http&security=reality&path=%2Fapi%2Fv2%2F&mode=packet-up&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22packet-up%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=edge&sni=eda.yandex.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=21054ef87ec81904
@@ -2478,6 +2472,7 @@ vless://41db33f5-d961-42ef-b0ce-ec73019a0c15@de-dp-01.com:8443?security=reality&
 vless://41e72698-f09a-4617-8f1b-33359c2473cc@185.100.157.171:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@local.cloud-play.ir:80?mode=auto&path=%2F&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=simeonelaparo.de&type=http
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@mci.cloud-play.ir:80?mode=auto&path=%2F&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=simeonelaparo.de&type=http
+vless://41fc2564-31e5-4570-b351-1d39453603cd@bez3.stream-room.com:8080?type=xhttp&security=reality&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&sni=ozon.ru&mode=auto&extra={
 vless://420cb03a-8953-49db-8a9b-4f9f874ce16f@158.160.128.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY
 vless://420cb03a-8953-49db-8a9b-4f9f874ce16f@158.160.192.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI
 vless://420cb03a-8953-49db-8a9b-4f9f874ce16f@185.130.114.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY
@@ -2811,6 +2806,7 @@ vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.223:80?path=%2F&security
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=&encryption=none&host=tt.andishehparenting.com&type=ws
 vless://478dd3f5-550c-4f3f-8848-fe75c21136db@ru2.prostosetup.org:443?security=reality&encryption=none&pbk=6BY3dMMSWk0fTZmbT88Y_Rvr8QNpcxIMJQcC4SWzv3A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=43a7dd5a3474a68c
 vless://478dd3f5-550c-4f3f-8848-fe75c21136db@ru2.prostosetup.org:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=6BY3dMMSWk0fTZmbT88Y_Rvr8QNpcxIMJQcC4SWzv3A&sid=43a7dd5a3474a68c
+vless://47a9883a-6d95-402f-8fba-c75b35ce1539@playground.ntsrc.xyz:447?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&sid=ea1058117be12087&sni=vk.ru&spx=/
 vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@185.86.147.209:443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=vk.com&pbk=6IphheVqBS7n6Z_GMobp0IezWgotxGAeZpaPbUSOAC0&sid=6453ce1a7cfa7f9f
 vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@185.86.147.209:443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=vk.com&pbk=6IphheVqBS7n6Z_GMobp0IezWgotxGAeZpaPbUSOAC0&sid=af77654db0c3d9fc
 vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@185.86.147.209:443?encryption=none&type=http&security=reality&extra=null&fp=firefox&sni=vk.com&pbk=6IphheVqBS7n6Z_GMobp0IezWgotxGAeZpaPbUSOAC0&sid=e3573df00c8a9933
@@ -3069,6 +3065,7 @@ vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@46.8.19.133:443?type=tcp&flow=xtls-
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&descriptions=люби_себяe44ea2
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&seq=you_are_beautiful8463
+vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&encryption=none&type=tcp&security=reality&fp=firefox&sni=rutube.ru&sid=6c6082a2223c1d03
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&type=tcp&encryption=none&sid=6c6082a2223c1d03&fp=firefox&security=reality&descriptions=СвободуИнтернету2
 vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@nl.prx1.raketa-balance.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=qq&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03
@@ -3637,9 +3634,9 @@ vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-
 vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc
 vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc
 vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&spx=%2F
+vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&fp=edge&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&sid=be0191cc&sni=www.tesla.com&type=tcp
 vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&fp=firefox&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&sid=be0191cc&sni=www.tesla.com&spx=%2F&type=tcp
 vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@nagatoro.kosmojoy.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sni=www.tesla.com&sid=be0191cc
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@nagatoro.kosmojoy.ru:443?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=be0191cc&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none
 vless://5520c1b4-ab7f-4417-880b-57849bc9933f@81.163.23.115:2097?type=grpc&security=reality&fp=firefox&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=c05d4c564d2bcd&sni=ads.x5.ru&mode=gun&serviceName=grpc
 vless://5520c1b4-ab7f-4417-880b-57849bc9933f@81.163.23.115:2097?type=grpc&security=reality&sni=ads.x5.ru&fp=firefox&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=c05d4c564d2bcd
 vless://5520c1b4-ab7f-4417-880b-57849bc9933f@81.94.148.75:8443?type=grpc&security=reality&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=96962fed&sni=ads.x5.ru&mode=gun&serviceName=ads.x5.ru
@@ -3824,6 +3821,7 @@ vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vis
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038&spx=%2F
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038&spx=/
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038
+vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@5.188.141.35:993?flow=xtls-rprx-vision&fp=firefox&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&security=reality&sid=bad5722c72a038&sni=ads.x5.ru&spx=%2F&type=tcp
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&sni=ads.x5.ru&sid=bad5722c72a038
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&sid=bad5722c72a038
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&sid=bad5722c72a038&_t=32e01b49
@@ -5454,6 +5452,7 @@ vless://72fc1188-430f-4a3c-a64e-af9023819899@chatgpt.com:443?encryption=none&sec
 vless://7308d6b5-7e33-4180-a54a-50ac1748856b@185.130.114.211:443?type=tcp&security=reality&encryption=none&sni=yandex.ru&fp=chrome&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&flow=xtls-rprx-vision&headerType=none&allowInsecure=1
 vless://7308feab-ac25-4eaa-a7aa-42f1ae88a1a4@fanland2.monopoli.shop:11332?security=reality&encryption=none&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&headerType=none&fp=chrome&spx=/amn&type=tcp&sni=play.google.com&sid=f609acadb18e6c5b
 vless://732f995a-7989-4363-8e8e-501732c9a460@158.160.53.173:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=%2F
+vless://736dc313-3eb7-46d0-9564-49e3ad1b3fa4@fi.kuda-idem-nvrsk.ru:30904?type=tcp&security=reality&encryption=none&fp=qq&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&sid=72&sni=vk.ru&spx=/4GI0RR6YZdFm2nJ
 vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@51.250.92.19:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=lYRsgq-HSIdlIJTAR4nO7Qub-SC9ipiTKT-ZeajXvQI&sid=8e488cf8
 vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@api-maps.xwhiteness.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.xwhiteness.top&fp=firefox&pbk=ek7vNW3A7JfrSIf5DI1amef5Zh9v-H8E7GhOXDWM6hQ&type=tcp&headerType=none
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819&type=tcp&descriptions=_d40a94?type=tcp&security=none&encryption=none
@@ -6189,8 +6188,11 @@ vless://854eea7a-c834-4f62-9e17-ae63d1086f36@185.223.57.75:443?encryption=none&f
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@37.16.74.124:443/?type=tcp&encryption=none&flow=&sni=nl2.krasivogame.ru&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@de1.krasivovpn.ru:443?security=reality&amp;encryption=none&amp;pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tradingview.com&amp;sid=868419504747f6de
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=http&sni=www.kinopoisk.ru&sid=aabbccdd
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&encryption=none&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&fp=firefox&type=xhttp&sni=www.kinopoisk.ru&sid=aabbccdd
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.kinopoisk.ru&fp=firefox&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&path=%2FtDjkeuxyQPUDqF8wT2
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=http&security=reality&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&sni=www.kinopoisk.ru&path=%2FtDjkeuxyQPUDqF8wT2&mode=auto
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&sni=www.kinopoisk.ru&path=%2FtDjkeuxyQPUDqF8wT2&mode=auto
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&sni=2.oncloudnineservicestreang.come=TelegramTelegramTelegramTelegramTelegramTelegramTelegramTelegramTelegram
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1.oncloudnineservicestreang.com&fp=firefox&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&sid=28415a7918168947&type=tcp&headerType=none
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&sid=28415a7918168947&sni=1.oncloudnineservicestreang.com
@@ -9188,7 +9190,6 @@ vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.208.65.181:443?encryption=none&
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.208.65.181:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.209.88.125:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fuser&host=s10211.cdn.ngenix.net&fp=firefox&sni=s10211.cdn.ngenix.net
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.209.88.125:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fuser&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net&alpn=http%2F1.1
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.209.88.125:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@195.209.88.125:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net&alpn=http/1.1
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=/api/user
 vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?encryption=none&security=tls&sni=s10211.cdn.ngenix.net&fp=qq&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=s10211.cdn.ngenix.net&path=%2Fapi%2Fuser
@@ -9311,6 +9312,7 @@ vless://ddb4b81b-3c9d-43b9-b854-372cfb5f2bd3@freeiran.lookanet.app:443?mode=auto
 vless://ddb92a0f-f9ed-4a63-9a24-3756246cae6d@51.250.75.178:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=6ysjiXUhLqwt8GhxEMjrpqDLicWCMcCuZDkjl4N7mAQ&sid=f6fda4ce154ac122&sni=ads.x5.ru&path=&host=
 vless://ddbb9c83-43bb-4fb5-8e43-dd5ccec6403a@transparency.cloud.appcore.org:34754?security=reality&encryption=none&pbk=MNw8WI6R7SDlWC71MClNgpxNGUa-nYN4nGHn9pG62Ss&headerType=none&fp=chrome&spx=/Qz02rIOuKuJqbkt&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=81
 vless://ddbe5505-823e-45b1-a954-cc362fe17ec0@46.225.60.63:8443?security=reality&encryption=none&pbk=az-7rt-3cu_VWhUW2h77Wn6HhcVXEc2Eblad0VJ0HiU&headerType=none&fp=chrome&spx=/u0ljZFIwJHqhsLU&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=83c6
+vless://ddc10946-d4f9-4cb9-9493-b439705ce2ad@nl2.nvrsk-not-news.ru:41698?type=tcp&security=reality&encryption=none&fp=firefox&pbk=CGy3XQXti0IWqe5GK93fH5kolq7zafDhFZvkedRFKR8&sid=455b&sni=www.vk.com&spx=/bakV6xaC0P3teoL
 vless://dddbd21a-672d-4dbf-9871-3685e99fd38d@89.208.210.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI
 vless://de1a6558-7807-4ec3-861b-1fd0473a3bd7@87.228.101.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api.yandex.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=%2F
 vless://de1a6558-7807-4ec3-861b-1fd0473a3bd7@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F
@@ -10324,7 +10326,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@147.185.161.140:80?encryption=none&
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.75.140:80?type=ws&security=none&fp=firefox&path=/Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&host=s5.868001.xyz
@@ -10342,7 +10343,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80/?type=ws&encrypti
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?encryption=none&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?host=s5.868001.xyz&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
@@ -10362,7 +10362,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=n
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=none&host=s5.868001.xyz&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=none&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=none&host=s5.868001.xyz&path=/Telegram+@WangCai2
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=none&host=s5.868001.xyz&path=/Telegram🇨🇳+@WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.137.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.137.140:80?type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.137.140:80?type=ws&security=none&fp=firefox&path=/Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&host=s5.868001.xyz
@@ -10405,7 +10404,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?encryption=none&s
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&host=s5.868001.xyz&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?type=ws&security=none&fp=firefox&path=Telegram%2B%40WangCai2&host=s5.868001.xyz
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?type=ws&security=none&host=s5.868001.xyz&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@172.238.22.36:8443?&security=tls&fp=chrome&sni=s5.868001.xyz&type=ws&headerType=&host=s5.868001.xyz&path=%2Fproxyip%3Dtw.william.us.ci
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.168.47.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2
@@ -10415,7 +10413,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80/?type=ws&encrypti
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?type=ws&security=none&fp=firefox&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=/Telegram+@WangCai2
@@ -10512,7 +10509,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@212.183.88.140:80/?type=ws&encrypti
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@212.183.88.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@212.183.88.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@212.183.88.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@216.24.57.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@216.24.57.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@216.24.57.140:80?encryption=none&host=s5.868001.xyz&path=Telegram+@WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@216.24.57.140:80?fp=firefox&host=s5.868001.xyz&path=Telegram%2B%40WangCai2&security=none&type=ws
@@ -10531,9 +10527,8 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.12.31.140:80?type=ws&security=no
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.12.31.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.210.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.210.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.210.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.210.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.211.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=/Telegram+@WangCai2
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.211.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=/Telegram🇨🇳+@WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.211.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.211.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.5.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
@@ -10584,7 +10579,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.154.140:80?type=ws&security=n
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.155.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&host=s5.868001.xyz&path=Telegram+@WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
@@ -10604,10 +10598,13 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.85.119.140:80/?type=ws&encryptio
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?type=ws&security=none&fp=chrome&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?type=ws&security=none&fp=chrome&path=Telegram+@WangCai2&host=s5.868001.xyz
@@ -10615,9 +10612,11 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?type=ws&security=no
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.246.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.246.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.246.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.246.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?fp=firefox&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
@@ -10663,12 +10662,9 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?host=s5.868001.xyz&path=Telegram***%F0%9F%87%A8%F0%9F%87%B3***&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?type=ws&fp=firefox&sni=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?type=ws&security=none&fp=firefox&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?type=ws&sni=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram+@WangCai2
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?encryption=none&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?type=ws&security=none&fp=firefox&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
@@ -10717,7 +10713,6 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?encryption=none&se
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?type=ws&security=none&fp=firefox&path=/Telegram%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.191.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@94.140.0.140:80?type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=s5.868001.xyz&fp=firefox
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@94.140.0.140:80?type=ws&security=none&fp=firefox&path=/Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&host=s5.868001.xyz
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@94.140.0.140:80?type=ws&security=none&host=s5.868001.xyz&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2
