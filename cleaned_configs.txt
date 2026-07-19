@@ -1768,7 +1768,7 @@ vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.20.23.154:8880?type=ws&security
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@141.98.169.145:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://15d862ce-61e0-4259-9674-a5008362afd7@37.139.32.49:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=oCY1MEFpDL3Yskt26fys4QdEEMMoMR2gR0N8iagyvHE
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&spx=%2F
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&fp=qq&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&type=tcp
 vless://15e62215-07f9-406b-af2f-e09af1b3e42b@marzban-node-production-069b.up.railway.app:443?path=/vless&security=tls&alpn=h2&encryption=none&host=marzban-node-production-069b.up.railway.app&fp=chrome&type=ws&sni=marzban-node-production-069b.up.railway.app
 vless://15efeadc-234a-4642-89b1-e34210e51758@82.22.41.0:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=0f1e2d3c
 vless://15fc02f9-dadd-49fa-a259-baec0ee71339@213.21.222.28.speed-storage.ru:443?encryption=none&security=tls&sni=213.21.222.28.speed-storage.ru&fp=ios&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fsequre%2Fws%3Fed%3D2560
@@ -14757,6 +14757,7 @@ vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?flow=xtls-rprx-vi
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=ios&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&fp=chrome
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=ads.x5.ru&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&fp=firefox
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?flow=xtls-rprx-vision&fp=chrome&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&security=reality&sni=ads.x5.ru&type=tcp
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?flow=xtls-rprx-vision&fp=ios&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&security=reality&sni=ads.x5.ru&type=tcp
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&sni=ads.x5.ru
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.139.34.124:443?type=tcp&security=tls&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision-udp443
@@ -21034,4 +21035,4 @@ https://t.me/nzea_tri_bykvi
 https://t.me/obwl_forum/1594
 https://t.me/rjsxrd
 https://translate.yandex.ru/translate?url=https://cdn.jsdelivr.net/gh/AbikusSudo/RussiaVPN@main/docs/index.html&lang=en-en
-http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260719-2016-0737-a1cc-a9a56778c0cc&
+http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260719-2022-5043-9607-f85754cbeff8&
