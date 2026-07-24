@@ -7186,7 +7186,7 @@ vless://683f71a3-8de1-467a-8562-9ee8f5e80288@84.201.163.9:443?encryption=none&fl
 vless://683f71a3-8de1-467a-8562-9ee8f5e80288@84.201.163.9:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=ZDHa3Fbl_IxcBtjcWmZtqtsmK1u2vA4en8zDpIkhUA8&sid=6d021e2120ed3fac
 vless://685046dc-4453-4d62-b2a0-510b1f6bfcc4@217.16.31.225:443?type=raw&security=reality&sni=strm.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=yI-ZRn0p-xZumBjLI10LmzOGCKmDuakxuC1d1ZEOs1Y&sid=81ae391ef33b09a3
 vless://6855c0ad-e259-4180-a6b8-776efdfbbcea@84.201.162.99:49958?encryption=none&fp=firefox&pbk=wwIAlV04ehfHxXiYZtCum2uKRU5mXK2uQ0bL_2_R8mE&security=reality&sid=83e911b88e14&sni=www.nvidia.com&type=tcp
-vless://6855c0ad-e259-4180-a6b8-776efdfbbcea@84.201.162.99:49958?encryption=none&type=raw&security=reality&fp=chrome&sni=www.nvidia.com&pbk=wwIAlV04ehfHxXiYZtCum2uKRU5mXK2uQ0bL_2_R8mE&sid=83e911b88e14&spx=/5p7RA7i4L0s2TNM
+vless://6855c0ad-e259-4180-a6b8-776efdfbbcea@84.201.162.99:49958?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=wwIAlV04ehfHxXiYZtCum2uKRU5mXK2uQ0bL_2_R8mE&sid=83e911b88e14&spx=%2F5p7RA7i4L0s2TNM&type=tcp&headerType=none
 vless://686988e8-0793-4ddd-80ae-b15dfc60067a@51.250.76.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none
 vless://686988e8-0793-4ddd-80ae-b15dfc60067a@51.250.76.247:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6
 vless://686988e8-0793-4ddd-80ae-b15dfc60067a@84.201.166.234:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none
@@ -9369,6 +9369,7 @@ vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.217:443?type=tcp&securi
 vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5
 vless://871f3020-6158-4829-88ed-81843bb956e1@104.17.97.5:443?encryption=none&security=tls&sni=ts02.3xxx.de5.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ts02.3xxx.de5.net&path=%2Fp%3D43.165.195.160%3A443
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw
+vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95sub.ghost-lan.com:8442?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796&sni=max.ru&fp=firefox
 vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=orpheous.ru&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&type=tcp&headerType=none
 vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&sni=orpheous.ru
@@ -9829,6 +9830,7 @@ vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge02.auragg.org:443?encryption=none
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge02.auragg.org:443?mode=gun&security=reality&encryption=none&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=a3d8f1e9b2c7d4e6
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge03.auragg.org:443?mode=gun&security=reality&encryption=none&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&fp=qq&type=grpc&serviceName=auragrpc&sni=cloudflare.com&sid=a3d8f1e9b2c7d4e6
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sw01.auragg.org:443?encryption=none&fp=chrome&pbk=TGJxKbPG8ds2NwK6uhgQURUfVJ01BcRh3Eaoy3dtdGA&security=reality&serviceName=auragrpc&sid=a3d8f1e9b2c7d4e6&sni=cloudflare.com&type=grpc
+vless://8bdaaef0-44b3-4f2f-8858-aa4d16a64e92@213.219.212.24:443?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=edge&packetencoding=xudp&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sid=&sni=pro-ru-213.emrata.top
 vless://8bdaaef0-44b3-4f2f-8858-aa4d16a64e92@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw
 vless://8bdaaef0-44b3-4f2f-8858-aa4d16a64e92@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw
 vless://8bdaaef0-44b3-4f2f-8858-aa4d16a64e92@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=tcp
@@ -21650,4 +21652,4 @@ https://t.me/obwl_forum/1594
 https://t.me/rjsxrd
 https://t.me/wangcai2
 https://translate.yandex.ru/translate?url=https://cdn.jsdelivr.net/gh/AbikusSudo/RussiaVPN@main/docs/index.html&lang=en-en
-http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260724-1539-107f-9b59-221229236722&
+http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260724-1545-53aa-b9e1-316b04892bc5&
