@@ -281,6 +281,7 @@ vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?encryption=none&s
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?encryption=none&security=reality&type=tcp&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=android
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?encryption=none&security=reality&type=tcp&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=edge
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?encryption=none&security=reality&type=tcp&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision&fp=ios
+vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?flow=xtls-rprx-vision&fp=edge&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?security=reality&flow=xtls-rprx-vision&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org&type=tcp&headerType=none&host=abuse.sellflow.org&path=%2F&fp=firefox
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?security=reality&flow=xtls-rprx-vision&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org&type=tcp&headerType=none&host=abuse.sellflow.org&path=%2F&fp=qq
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.21:443?security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org&type=tcp&headerType=none&host=abuse.sellflow.org&path=%2F&fp=firefox
@@ -1729,7 +1730,7 @@ vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&f
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F+&type=raw&fp=ios
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F+&type=raw&fp=qq
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F+&type=raw&fp=safari
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=ios&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&spx=/
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&fp=chrome&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&type=tcp
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&fp=firefox&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&fp=firefox&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F%2B%2B&type=tcp
@@ -21221,4 +21222,4 @@ https://t.me/obwl_forum/1594
 https://t.me/rjsxrd
 https://t.me/wangcai2
 https://translate.yandex.ru/translate?url=https://cdn.jsdelivr.net/gh/AbikusSudo/RussiaVPN@main/docs/index.html&lang=en-en
-http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260726-0456-10d4-8b7b-796d1f4263a6&
+http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260726-0502-53ed-b984-070bebe538b4&
