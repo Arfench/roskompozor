@@ -869,12 +869,14 @@ vless://0d6974c7-d686-44ee-931e-a02de6879835@46.243.233.12:443?encryption=none&f
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321/?type=tcp&encryption=none&flow=
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&security=reality&sid=2749d73d715730e1&sni=www.twitch.tv&type=raw
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&security=reality&sid=2749d73d715730e1&sni=www.twitch.tv&type=raw
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29444?encryption=none&flow=xtls-rprx-vision&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&security=reality&sid=2749d73d715730e1&sni=www.twitch.tv&fp=qq
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29444?fp=firefox&sni=www.twitch.tv&encryption=none&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&sid=2749d73d715730e1&flow=xtls-rprx-vision&security=reality&type=tcp
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b7L2qrpKuFSOVFNY9A-Phylorw1DuteAetgS5ipERyA&sid=2749d73d715730e1&sni=www.twitch.tv
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw
+vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?encryption=none&flow=xtls-rprx-vision&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=raw&fp=chrome
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&sni=www.twitch.tv
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&_t=224c8a92
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.207.45:29445?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&sid=1297b6f0f6dc88d0&sni=www.twitch.tv
@@ -3172,7 +3174,7 @@ vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.3:2053?type=grpc&securit
 vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.3:2053?type=grpc&security=reality&fp=safari&pbk=RaAQd349NbMoL5WJOfT_RWvlT2s6sav0pOgEsoSm2zw&sid=f0131a4772b494d4&sni=dns.adguard-dns.com&mode=gun&serviceName=grpc
 vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.3:2053?type=grpc&security=reality&fp=safari&pbk=RaAQd349NbMoL5WJOfT_RWvlT2s6sav0pOgEsoSm2zw&sid=f0131a4772b494d4&sni=dns.adguard-dns.com&serviceName=grpc
 vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&security=reality&sid=41f6de54&sni=www.cloudflare.com&type=tcp
-vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?security=reality&encryption=none&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=41f6de54
+vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&security=reality&sid=41f6de54&sni=www.cloudflare.com
 vless://34ad014b-23dd-438b-9e5f-d2994578033f@103.35.189.146:443?path=%2Fyebnszws&security=tls&encryption=none&type=ws&sni=ya.ru
 vless://34be0df6-ae6a-2328-8d58-ce299cfd10cf@89.208.231.191:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323
 vless://34d87d6c-418e-4387-a1e3-2bb477c0b363@45.198.91.52:443?type=tcp&security=reality&sni=rbc.ru&flow=xtls-rprx-vision&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f
@@ -20719,4 +20721,4 @@ https://t.me/obwl_forum/1594
 https://t.me/rjsxrd
 https://t.me/wangcai2
 https://translate.yandex.ru/translate?url=https://cdn.jsdelivr.net/gh/AbikusSudo/RussiaVPN@main/docs/index.html&lang=en-en
-http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260731-0521-5452-bdfb-b963af44814b&
+http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260731-0528-40b9-8e1e-56e5d6e31a75&
