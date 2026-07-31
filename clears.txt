@@ -3636,6 +3636,7 @@ vless://3ad1d277-5715-4ca1-84db-5baea72f822d@it1-akn.astralweb.tech:443?type=tcp
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@it1-akn.astralweb.tech:443?type=tcp&security=tls&sni=it1-akn.astralweb.tech&fp=firefox
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@jp-ak.astralweb.tech:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&sni=jp-ak.astralweb.tech
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@jp-ak.astralweb.tech:443?type=tcp&security=reality&sni=jp-ak.astralweb.tech&fp=firefox&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&encryption=none&flow=xtls-rprx-vision
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?alpn=h2&encryption=none&security=tls&sni=lv-ddc.astralweb.tech&type=tcp
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lv-ddc.astralweb.tech&fp=firefox&alpn=h2&insecure=0
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=lv-ddc.astralweb.tech
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ru1-cr.astralweb.tech:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&sni=ru1-cr.astralweb.tech
@@ -10063,10 +10064,8 @@ vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge02.auragg.org:25310?encryption=no
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge03.auragg.org:25202?encryption=none&fp=chrome&pbk=hzeeL2EIsjaab7u3JOt0F44pWql50JAemhQEOAsqEzY&security=reality&serviceName=auragrpc&sid=a3d8f1e9b2c7d4e6&sni=cloudflare.com&type=grpc
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge4.auragg.org:25317?encryption=none&fp=chrome&pbk=vF-KQd20O6Py0wB9go8Sw4Rm1raoiQD6IIcipkDtcEU&security=reality&serviceName=auragrpc&sid=a3d8f1e9b2c7d4e6&sni=cloudflare.com&type=grpc
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@lb1.auragg.org:25332?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=qq&pbk=4iK2MvJODGj37OQE588278o4abt70zkFZzmQJg47NiA&sid=a3d8f1e9b2c7d4e6&path=auragrpc&serviceName=auragrpc&mode=gun&multiMode=false
-vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl01.auragg.org:25224?encryption=none&fp=chrome&pbk=uXV7VKWM7wlzSVCp1MxVMQHJJ3GvjJmVCMPqw_vIZUs&security=reality&serviceName=auragrpc&sid=e7c3f9a2b6d4f8e1&sni=cloudflare.com&type=grpc
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@plgg3.auragg.org:25358?encryption=none&fp=chrome&pbk=uXV7VKWM7wlzSVCp1MxVMQHJJ3GvjJmVCMPqw_vIZUs&security=reality&serviceName=auragrpc&sid=e7c3f9a2b6d4f8e1&sni=cloudflare.com&type=grpc
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sp01.auragg.org:25271?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mbnHOYKFnJgIYhKCaiURW8sHoTA-xU3G6q7QJF_We2o&security=reality&sid=c58e2a7f4b91d63e&sni=cloudflare.com&type=tcp
-vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@st01.auragg.org:25311?encryption=none&fp=chrome&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&security=reality&serviceName=auragrpc&sid=e7c3f9a2b6d4f8e1&sni=cloudflare.com&type=grpc
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@st01.auragg.org:25311?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=qq&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&sid=e7c3f9a2b6d4f8e1&path=auragrpc&serviceName=auragrpc&mode=gun&multiMode=false
 vless://8bcadd09-9c96-4b8a-bf71-435fdeeca241@185.130.114.211:443?type=raw&security=reality&encryption=none&sni=yandex.ru&fp=chrome&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&flow=xtls-rprx-vision&headerType=none
 vless://8be64379-08a5-4362-b8cf-234a65409bda@172.67.148.41:80?type=ws&host=telegram4.freepersianland8.workers.dev&path=/eyJqdW5rIjoiOW56N0hTRm9IS252IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ==?ed=2560
@@ -13548,6 +13547,7 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?host=forfreeuse.
 vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online
 vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?type=ws&security=tls&sni=forfreeuse.sub-flow.online
 vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.79.57:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws
+vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?encryption=none&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws
 vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws
 vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws
 vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online
