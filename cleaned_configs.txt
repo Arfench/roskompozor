@@ -7461,6 +7461,7 @@ vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?type=tcp&headerTy
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&sni=apple.com
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?type=tcp&security=reality&sni=apple.com&fp=qq&flow=xtls-rprx-vision&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw
@@ -9568,7 +9569,6 @@ vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442/?type=tcp&encry
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=tcp
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw
-vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&security=reality&sid=a7f9106ba66e4796&sni=max.ru&type=raw
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?security=reality&flow=xtls-rprx-vision&sni=max.ru&type=tcp&fp=chrome&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796&sni=max.ru
 vless://873f1046-0210-4b2e-a0ec-dc1826886071@95.163.250.241:8442?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=TRB-7JE8MNZDBFSduYp9syU1AdpLez1MJ7dPrHeGFwg&sid=a7f9106ba66e4796&sni=max.ru
@@ -11142,6 +11142,7 @@ vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?encryption=none&f
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&security=reality&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&spx=%2F&type=raw
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&security=reality&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&type=raw
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=random&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&spx=%2F&type=tcp&headerType=none
+vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?flow=xtls-rprx-vision&fp=edge&headertype=none&host=5post-gate.x5.ru&path=%2F&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&security=reality&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&type=tcp
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&security=reality&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&spx=%2F&type=tcp
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=5post-gate.x5.ru&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?security=reality&flow=xtls-rprx-vision&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&type=tcp&headerType=none&host=5post-gate.x5.ru&path=%2F&fp=edge
@@ -11154,7 +11155,6 @@ vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=raw&security
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&spx=/
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&spx=/
-vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=raw&security=reality&sni=5post-gate.x5.ru&fp=edge&flow=xtls-rprx-vision&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru&spx=/
 vless://a03df445-0666-4d61-acde-9705009e409c@84.201.163.47:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&sni=5post-gate.x5.ru
@@ -14428,7 +14428,7 @@ vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?encryption=none&
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&type=tcp&headerType=none
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&type=tcp&headerType=none&host=apple.com&path=%2F
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?flow=xtls-rprx-vision&fp=firefox&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?flow=xtls-rprx-vision&fp=qq&path=%2F&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=tcp
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?flow=xtls-rprx-vision&fp=firefox&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=tcp
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?flow=xtls-rprx-vision&fp=safari&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com
 vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.251.191:443?pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision&sni=apple.com&security=reality&encryption=none&fp=safari&type=raw
@@ -21282,4 +21282,4 @@ https://t.me/obwl_forum/1594
 https://t.me/rjsxrd
 https://t.me/wangcai2
 https://translate.yandex.ru/translate?url=https://cdn.jsdelivr.net/gh/AbikusSudo/RussiaVPN@main/docs/index.html&lang=en-en
-http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260731-2253-410c-8bcd-964c14db093f&
+http://ety.twinkvibe.gay/whitelist)?tr_uuid=20260731-2300-262b-afa0-061a527982f4&
