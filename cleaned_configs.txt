@@ -11113,7 +11113,8 @@ vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@81.90.21.67:443?encryption=none&sec
 vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@81.90.21.78:443?encryption=none&fp=firefox&mode=multi&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&serviceName=grpc-api-v2&sid=635a76c25a4b1820&sni=www.amd.com&type=grpc
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@77.237.90.67:443?security=reality&encryption=none&pbk=a7eDhoO14l6Tt6oC9Qa2laZkuJlQ8vhDgtE3Ko9aGnw&headerType=none&fp=chrome&spx=/a7a31c8e82daa25&type=tcp&sni=www.samsung.com&sid=20f787f764e45d
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@77.237.90.67:443?security=reality&encryption=none&pbk=a7eDhoO14l6Tt6oC9Qa2laZkuJlQ8vhDgtE3Ko9aGnw&headerType=none&fp=chrome&spx=/a7a31c8e82daa25&type=tcp&sni=www.samsung.com&sid=fcf239025a00fddd
-vless://8ff538e4-330c-43c1-97c8-0c90bf989331@77.237.90.67:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=a7eDhoO14l6Tt6oC9Qa2laZkuJlQ8vhDgtE3Ko9aGnw&sid=20f787f764e45d&sni=www.samsung.com
+vless://8ff538e4-330c-43c1-97c8-0c90bf989331@77.237.90.67:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=a7eDhoO14l6Tt6oC9Qa2laZkuJlQ8vhDgtE3Ko9aGnw&sid=20f787f764e45d&sni=www.samsung.com
+vless://8ff538e4-330c-43c1-97c8-0c90bf989331@94.184.12.216:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=a4BZpB4dOgs5CZZnWW7xC6Czu6BNQHQjTrqpuEhLFBk&sid=a0f59cea4e3b73&sni=www.samsung.com
 vless://900606a3-cf07-4680-a589-f81f039e3a85@172.235.175.57:35351?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sni=www.intel.com&sid=85c86a9863&spx=%2Fozks0ksxmyHue4v
@@ -13510,6 +13511,7 @@ vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@id.tutdesignstudio.site:8443?flow=x
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?encryption=none&type=http&mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&fp=chrome&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&sni=play.google.com&sid=5f9a
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=%2Fapi%2Fv1%2Fstream%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@fin.feywebsite.ir:8898?security=reality&encryption=none&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&headerType=none&fp=ios&spx=/187a1642823d394&type=tcp&sni=play.googleapis.com&sid=6633e065744286
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@fin.feywebsite.ir:8898?type=tcp&security=reality&encryption=none&fp=ios&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286&sni=play.googleapis.com
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@it.feywebsite.ir:8008?encryption=none&type=xhttp&mode=packet-up&path=%2Fapi%2Fv1%2Fstream&security=reality&fp=chrome&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&sni=play.google.com&sid=5f9a
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@nl.feywebsite.ir:8008?encryption=none&type=http&security=reality&path=%2Fapi%2Fv1%2Fstream&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=uUJJTIzw37fc46Ywh-LJIcobqF2Dim7JPCFm1VuMfFg&sid=c0c3011371b97459&spx=%2Fbd5271eec396a9e
 vless://b92380e2-e03f-4861-856e-7c2373b04728@dry-thunder-7f57.57-1a3.workers.dev:8880?type=ws
@@ -16960,6 +16962,7 @@ vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@162.159.253.41:8443?security=tls&ty
 vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@162.159.253.41:8443?type=ws&security=tls&fp=chrome&sni=focalin.adaspoloandco.com
 vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@172.67.216.227:8443?security=tls&type=ws&path=/RizZrAcK&host=focalin.adaspoloandco.com&sni=focalin.adaspoloandco.com&fp=chrome&encryption=none
 vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@172.67.216.227:8443?type=ws&security=tls&fp=chrome&sni=focalin.adaspoloandco.com
+vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@b2n.ir:8443?type=ws&security=tls&fp=chrome&sni=focalin.adaspoloandco.com
 vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@161.248.31.198:443?&security=tls&fp=chrome&sni=sni.ehb.cc.cd&type=ws&headerType=none&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2
 vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@163.61.74.121:443?&security=tls&fp=chrome&sni=sni.ehb.cc.cd&type=ws&headerType=none&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2
 vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@185.36.141.193:443?fp=chrome&host=sni.ehb.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net%3Fuuid%3Def6c9625-62de-4b9d-b7e2-0d4a9f67a9b2fp%3Dchrome&security=tls&sni=sni.ehb.cc.cd&type=ws
@@ -18628,6 +18631,7 @@ vless://fd6011da-5c16-463d-8aaf-ff35c1b95a74@85.192.61.16:8445?security=reality&
 vless://fd6011da-5c16-463d-8aaf-ff35c1b95a74@85.192.61.16:8445?type=grpc&security=reality&fp=chrome&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&sni=reels.frkn.org&mode=gun&serviceName=grpc
 vless://fd6011da-5c16-463d-8aaf-ff35c1b95a74@85.192.61.16:8445?type=grpc&security=reality&fp=firefox&pbk=ZXvgBIvhN87thoELQot4o6b6Fe9n_wATxfobHRAwgys&sid=0498897564df&sni=reels.frkn.org&serviceName=grpc
 vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@ipw.ygdfw.com:443?type=ws&security=tls&fp=unsafe&sni=dm4i1xz3.shopmexa.ir
+vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@meshbuzz.bond:443?type=ws&security=tls&fp=unsafe&sni=b8lou6i1.cendro.ir
 vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@meshbuzz.bond:443?type=ws&security=tls&fp=unsafe&sni=kt5ttul9.cendro.ir
 vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&security=reality&sid=58c512b4422e2517&sni=images.apple.com&type=tcp
 vless://fd8972d9-cf5e-11f0-9970-45e1d80c4039@5.253.59.44:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY&security=reality&sid=5d8ae11254&sni=images.apple.com&type=tcp
