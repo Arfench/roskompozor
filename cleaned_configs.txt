@@ -2258,6 +2258,7 @@ vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=tls&sni=max.ru&fp=chrome&flow=xtls-rprx-vision
 vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@107.161.168.83:443?type=grpc&security=reality&fp=firefox&pbk=fEU391-YClL9T25O9ph73swX7ARv4_3QGCWgTkFbHC0&sni=samsung.com&serviceName=vless-grpc
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@107.161.175.44:443?type=grpc&security=reality&fp=firefox&pbk=qxfjtrU0MD7HgM2M8-Jij33p-WGUSFLG7XnaVanRx0Y&sni=samsung.com&serviceName=vless-grpc
 vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@138.124.104.2:443?encryption=none&fp=firefox&pbk=tKAYeVSM4yLXiOdKLMFP751fhII6YyqfbMXy_MSuejI&security=reality&serviceName=vless-grpc&sni=samsung.com&type=grpc
 vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@138.124.104.2:443?mode=gun&security=reality&encryption=none&pbk=tKAYeVSM4yLXiOdKLMFP751fhII6YyqfbMXy_MSuejI&fp=chrome&type=grpc&serviceName=vless-grpc&sni=samsung.com
 vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@138.124.104.2:443?type=grpc&security=reality&fp=firefox&pbk=tKAYeVSM4yLXiOdKLMFP751fhII6YyqfbMXy_MSuejI&sni=samsung.com&mode=gun&serviceName=vless-grpc
@@ -6005,6 +6006,7 @@ vless://790fcfdd-f735-48d9-ae52-5f209a361c21@de3.coconutstrip.co:443?type=tcp&se
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.55.162:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8&sni=policies.google.com
 vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?encryption=none&security=tls&sni=ya.ru&fp=random&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&sid=aabbccdd&type=xhttp&path=/x&packetEncoding=xudp
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@190.93.245.7:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=speed.dulacloud.store&path=%2Fdula%3FTelegram-WangCai2&security=tls&sni=speed.dulacloud.store&type=ws
+vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=asia.csmaster.site&host=asia.csmaster.site
 vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.229:2085?type=grpc&mode=multi&serviceName=vless
 vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.74:2085?type=grpc&mode=multi&serviceName=vless
 vless://79b3dab9-3e6b-415f-9d1c-1b1c6855e354@104.143.223.81:2085?type=grpc&mode=multi&serviceName=vless
@@ -8395,8 +8397,12 @@ vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?type=ws&host=col
 vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@cold-bush-a762.lidrezvpn.workers.dev:8880?type=ws&host=cold-bush-a762.lidrezvpn.workers.dev
 vless://abc4c4d2-3760-4003-8cb7-322f8ec1a9c5@213.178.155.239:443?security=reality&encryption=none&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&fp=chrome&type=grpc&serviceName=bridge-akenai-grpc-max&sni=max.ru&sid=0d0440286388a044
 vless://abca037b-bee5-41cc-a888-0668e4c66176@31.77.238.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=ltu-03.node.lumixnet.com
+vless://abca037b-bee5-41cc-a888-0668e4c66176@cze-03.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=cze-03.node.lumixnet.com
+vless://abca037b-bee5-41cc-a888-0668e4c66176@est-01.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=est-01.node.lumixnet.com
 vless://abca037b-bee5-41cc-a888-0668e4c66176@fin-02.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=fin-02.node.lumixnet.com
 vless://abca037b-bee5-41cc-a888-0668e4c66176@ltu-04.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=ltu-04.node.lumixnet.com
+vless://abca037b-bee5-41cc-a888-0668e4c66176@nor-02.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=nor-02.node.lumixnet.com
+vless://abca037b-bee5-41cc-a888-0668e4c66176@rou-02.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=rou-02.node.lumixnet.com
 vless://abca037b-bee5-41cc-a888-0668e4c66176@usa-02.node.lumixnet.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&sni=usa-02.node.lumixnet.com
 vless://abcb511c-d479-4433-b9a4-436e5b4a316c@max4.skystreamgame.com:8080?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome&mode=auto&path=%2F&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp&name=TG%3AYoutubeUnBlockRu
 vless://abd3678b-f654-404c-adc7-1355865197e1@104.21.25.168:8880?type=ws&host=vless.a-amr79.workers.dev
@@ -12036,7 +12042,7 @@ vmess://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-stream-1-832.mirra.now:443
 vmess://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-stream-1-832.mirra.now:443?type=ws&security=tls&path=/api/v1/gpu-stream/socket&host=renderer-stream-1-832.mirra.now&sni=renderer-stream-1-832.mirra.now
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21018?type=raw
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21018?type=tcp
-vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21019?type=raw&host=dog-hk.kunlun01dns.com
+vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21019?type=raw
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21019?type=tcp
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21020?type=raw
 vmess://9464ca40-dd75-3742-a628-d931a9f413b2@dog-hk.kunlun01dns.com:21020?type=tcp
