@@ -8283,6 +8283,7 @@ trojan://2ce88088024f525d77c2bda96e81d737@ja262.magiclampcloud.cn:59443?type=tcp
 trojan://2ddeb5f43bbb897b13db728b2dfbef92@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn
 trojan://34bfb8d8-e37f-4872-a452-a2b2b4310aed@support.zoom.us:443?pcs=b83a89abf68f3ff79ba8fa0041347d78ad7d97555a2b62bada3bf0b51324d85c&path=%2Fwhatever%2Ftrojan-ws&security=tls&insecure=1&host=support.zoom.us.sg4.zidstore.net&type=ws&allowInsecure=1&sni=support.zoom.us.sg4.zidstore.net&fp=edge
 trojan://34bfb8d8-e37f-4872-a452-a2b2b4310aed@support.zoom.us:443?pcs=b83a89abf68f3ff79ba8fa0041347d78ad7d97555a2b62bada3bf0b51324d85c&path=%2Fwhatever%2Ftrojan-ws&security=tls&insecure=1&host=support.zoom.us.sg4.zidstore.net&type=ws&allowInsecure=1&sni=support.zoom.us.sg4.zidstore.net&fp=firefox
+trojan://34bfb8d8-e37f-4872-a452-a2b2b4310aed@support.zoom.us:443?pcs=b83a89abf68f3ff79ba8fa0041347d78ad7d97555a2b62bada3bf0b51324d85c&path=%2Fwhatever%2Ftrojan-ws&security=tls&insecure=1&host=support.zoom.us.sg4.zidstore.net&type=ws&allowInsecure=1&sni=support.zoom.us.sg4.zidstore.net&fp=ios
 trojan://36639485-60a0-4853-856c-40ac05f4b00d@104.16.250.22:443?security=tls&sni=null.us1234567891.xyz&insecure=0&allowInsecure=0&type=ws&path=%2Fmusic
 trojan://36639485-60a0-4853-856c-40ac05f4b00d@104.18.185.26:443?security=tls&sni=null.us1234567891.xyz&insecure=0&allowInsecure=0&type=ws&path=%2Fmusic
 trojan://380399761d5046a8@oge188.pacemakere.com:20015?encryption=chacha20
@@ -8598,6 +8599,7 @@ trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.
 trojan://humanity@45.147.48.28:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1&fm=tlshello-0-len
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq
@@ -8608,8 +8610,10 @@ trojan://humanity@77.239.121.232:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.
 trojan://humanity@8.47.69.0:443?allowInsecure=1&type=ws&security=tls&fp=android&sni=www.pleadcourt.org&host=www.pleadcourt.org
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=android
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=chrome
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=edge
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=firefox
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=ios
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=qq
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=safari
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=unsafe
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android
@@ -8619,6 +8623,13 @@ trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=ios
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=qq
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=safari
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=android
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=chrome
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=edge
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=firefox
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=ios
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=qq
+trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=%2Fassignment&host=www.pleadcourt.org&fp=safari
 trojan://humanity@8.6.112.206:443?type=ws&sni=www.trusteeforward.com&alpn=http/1.1
 trojan://humanity@82.117.245.125:2053?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com
 trojan://humanity@83.217.222.170:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1
@@ -8631,10 +8642,13 @@ trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@
 trojan://lk59gDrTm2@www.777061.xyz:18603?sni=www.777061.xyz
 trojan://mitivpn@151.101.36.244:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=ns2.firefox.com&type=ws&fp=chrome
 trojan://mitivpn@151.101.36.244:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=ns2.firefox.com&type=ws&fp=edge
+trojan://mitivpn@151.101.36.244:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=ns2.firefox.com&type=ws&fp=ios
+trojan://mitivpn@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=android
 trojan://mitivpn@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=chrome
 trojan://mitivpn@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=ios
 trojan://mitivpn@199.232.78.160:443?allowInsecure=1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=android
 trojan://mitivpn@199.232.78.160:443?allowInsecure=1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=firefox
+trojan://mitivpn@199.232.78.160:443?allowInsecure=1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=ios
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?allowInsecure=1&sni=
 trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com
 trojan://nzrc4ma4087c1ukr@188.114.96.1:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com
