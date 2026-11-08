@@ -220,7 +220,7 @@ vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?encryption=none&host=cf9.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf9.rumedia-cdn.com&type=ws
 vless://0a302734-fe85-4636-b929-74d4108b078d@goold.zovip2.ir:443?encryption=none&security=tls&sni=goold.zovip2.ir&alpn=http/1.1&fp=chrome&type=ws&host=goold.zovip2.ir&path=/api/v3/pulse&headers={
 vless://0aa6bee3-cfa1-0004-9a76-19f231d1681f@194.26.229.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&security=reality&sni=aeza1.maxtelemost.com&type=tcp
-vless://0aa6bee3-cfa1-0004-9a76-19f231d1681f@194.26.229.241:443?encryption=none&flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&security=reality&sni=aeza1.maxtelemost.com&type=tcp&fp=chrome
+vless://0aa6bee3-cfa1-0004-9a76-19f231d1681f@194.26.229.241:443?flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&security=reality&sni=aeza1.maxtelemost.com&type=raw&fp=chrome
 vless://0aec6598-7fb5-44e6-bff7-a4d550117830@104.234.135.88:443?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=http
 vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@de1.fixpr.top:443?flow=xtls-rprx-vision&sni=de1.fixpr.top&security=reality&pbk=Bi_RNmK4uVX7rwyGACtHif_hem8hd4rpdCwHGOpnoDw&sid=d7af35b0d0398152&spx=/&fp=chrome
 vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@dex1.fixpr.top:443?sni=dex1.fixpr.top&alpn=h3%2Ch2%2Chttp/1.1&security=tls&fp=chrome
@@ -627,6 +627,7 @@ vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?security=none&typ
 vless://219a22c9-bec8-444a-b208-ef670d8167e2@213.152.165.199:2093?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8
 vless://21a09a2a-8b94-4d7f-bdee-3bee24f30c1c@m987yh-production.up.railway.app:443?path=/api/_uycSp&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=m987yh-production.up.railway.app&fp=chrome&type=httpupgrade&allowInsecure=0&sni=m987yh-production.up.railway.app
 vless://21fdc3f7-15fd-479b-b567-e19503508693@adm.moshtaaf.ir:8008?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.ov5Niwwnd21E7pGZAG4hxDzSGAsGVV_k0pzvFjBH6VM&insecure=0&host=adm.moshtaaf.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=adm.moshtaaf.ir
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&fp=ios&alpn=http%2F1.1&headerType=none
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.116:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406&sni=api37.betust.net
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.75:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&sni=app.betust.net
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.75:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&sni=app.betust.net
@@ -657,6 +658,7 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?type=tcp&secur
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@cdnapiv4.streamru33.net:443?mode=packet-up&path=%2Fapi%2Fv118%2Fuptodown%2F&security=tls&encryption=none&extra=%7B%22xmux%22%3A+%7B%22cMaxReuseTimes%22%3A+%2224-64%22%2C+%22maxConcurrency%22%3A+%224-8%22%2C+%22hKeepAlivePeriod%22%3A+15%2C+%22hMaxRequestTimes%22%3A+%22160-320%22%2C+%22hMaxReusableSecs%22%3A+%22600-1200%22%7D%2C+%22seqKey%22%3A+%22offset%22%2C+%22headers%22%3A+%7B%22Accept%22%3A+%22application%2Fvnd.api+json%2C+application%2Fjson%2C+text%2Fplain%2C+%2A%2F%2A%22%2C+%22Pragma%22%3A+%22no-cache%22%2C+%22Cache-Control%22%3A+%22no-cache%22%2C+%22Accept-Language%22%3A+%22ru-RU%2Cru%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7%22%7D%2C+%22sessionKey%22%3A+%22media_sid%22%2C+%22xPaddingKey%22%3A+%22q%22%2C+%22seqPlacement%22%3A+%22query%22%2C+%22sessionIDKey%22%3A+%22media_sid%22%2C+%22uplinkDataKey%22%3A+%22X-Playback-Token%22%2C+%22xPaddingBytes%22%3A+%2248-256%22%2C+%22sessionIDTable%22%3A+%22Base62%22%2C+%22xPaddingHeader%22%3A+%22X-Rewrite-URL%22%2C+%22xPaddingMethod%22%3A+%22tokenish%22%2C+%22sessionIDLength%22%3A+%2216-32%22%2C+%22sessionPlacement%22%3A+%22cookie%22%2C+%22uplinkHTTPMethod%22%3A+%22GET%22%2C+%22xPaddingObfsMode%22%3A+true%2C+%22xPaddingPlacement%22%3A+%22queryInHeader%22%2C+%22scMaxBufferedPosts%22%3A+64%2C+%22scMaxEachPostBytes%22%3A+%224096-16384%22%2C+%22sessionIDPlacement%22%3A+%22cookie%22%2C+%22uplinkDataPlacement%22%3A+%22header%22%2C+%22scMinPostsIntervalMs%22%3A+%221-8%22%2C+%22serverMaxHeaderBytes%22%3A+32768%7D&insecure=0&host=cdnapiv4.streamru33.net&type=http&allowInsecure=0&sni=cdnapiv4.streamru33.net
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=qq
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252525252F1.1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252F1.1
@@ -671,6 +673,7 @@ vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=android
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=firefox
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=ios
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=android
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=firefox
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=ios
@@ -1625,7 +1628,6 @@ vless://4fe214fb-048e-431f-b939-4518dc9df6a2@46.29.238.196:443?encryption=none&f
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@92.63.106.103:443?encryption=none&security=tls&sni=cdnmsk.serverstats.ru&alpn=h2%2Chttp%2F1.1&type=http&host=cdnmsk.serverstats.ru&packetEncoding=xudp
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vkvd754.okcdn.ru&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=b7cd177731793b1e&type=tcp&headerType=none
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&encryption=none&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&sid=ef1d3554c652a436
-vless://50414e45-4c5f-5a45-5553-15038a30cbef@31.12.75.64:443?sni=oizs5zecux0s.pouriayy1.workers.dev&type=ws&host=oizs5zecux0s.pouriayy1.workers.dev&path=/stream/PANEL_ZEUS/15038a30cbef/loc-0fp=unsafe&security=tls
 vless://50414e45-4c5f-5a45-5553-47be357e54da@88.216.67.54:443?type=ws&security=tls&fp=chrome&host=52z4vtewuass.game4090taking.workers.dev&ech=mgaru.dev+udp://9.9.9.11
 vless://50414e45-4c5f-5a45-5553-5dd075c8ae9b@104.25.199.149:443?security=tls&type=ws&path=%2Fapi%2Fws&host=web-app-gjn19f.z0zxy6ehuwgs.workers.dev&packetEncoding=xudp&sni=web-app-gjn19f.z0zxy6ehuwgs.workers.dev&fp=ios&encryption=none
 vless://50414e45-4c5f-5a45-5553-5dd075c8ae9b@104.25.199.149:443?type=ws&security=tls&fp=chrome&host=web-app-gjn19f.z0zxy6ehuwgs.workers.dev
@@ -1888,6 +1890,8 @@ vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@185.110.188.50:443?encryption=none&
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@185.234.213.169:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@187.52.114.103:8443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@194.93.0.240:8443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@194.93.0.240:8443?security=tls&sni=vp4.1145678.xyz&type=ws&host=vp4.1145678.xyz&path=%2Fwenku%2Fcomics&fp=android
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@194.93.0.240:8443?security=tls&sni=vp4.1145678.xyz&type=ws&host=vp4.1145678.xyz&path=%2Fwenku%2Fcomics&fp=firefox
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@207.148.23.49:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@23.111.15.141:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@35.210.99.51:443?encryption=none&fp=firefox&host=vp4.1145678.xyz&path=/wenku/comics&security=tls&sni=vp4.1145678.xyz&type=ws
@@ -3470,6 +3474,7 @@ vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&t
 vless://8f719b99-8ee2-4402-8dc0-b37ad5b49ee1@82.148.255.251:8444?type=grpc&security=reality&fp=firefox&pbk=itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c&sid=c46a27f4595db3d4&sni=devlayer.ru&serviceName=grpc-reality
 vless://8f719b99-8ee2-4402-8dc0-b37ad5b49ee1@devlayer.ru:8444?mode=gun&security=reality&encryption=none&authority=&pbk=itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c&fp=chrome&type=grpc&serviceName=grpc-reality&sni=devlayer.ru&sid=c46a27f4595db3d4
 vless://8f719b99-8ee2-4402-8dc0-b37ad5b49ee1@devlayer.ru:8444?type=grpc&security=reality&fp=firefox&pbk=itcnYaywQAH3lmUITBTSInap8hSw53mx8sA-TDwRU0c&sid=c46a27f4595db3d4&sni=devlayer.ru&serviceName=grpc-reality
+vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@89.223.125.45:443/?type=grpc&encryption=none&flow=&serviceName=glush.de1.v1&security=tls&sni=falmero.store&alpn=h2&fp=chrome
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@89.223.125.45:443?encryption=none&fp=firefox&security=tls&serviceName=glush.de1.v1&sni=falmero.store&type=grpc
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@89.223.125.45:443?encryption=none&security=tls&serviceName=glush.de1.v1&sni=falmero.store&type=grpc&fp=chrome
 vless://8fb19a9e-ca2b-433a-8469-e4c7796033b2@89.223.125.45:443?encryption=none&security=tls&serviceName=glush.de1.v1&sni=falmero.store&type=grpc&fp=firefox
@@ -3903,6 +3908,7 @@ vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=raw&fp=ios
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=raw&fp=safari
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=chrome
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=edge
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=firefox
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=ios
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=qq
@@ -3915,6 +3921,7 @@ vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&t
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=chrome
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=edge
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=firefox
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=safari
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ripelever.net
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ripelever.net&host=ripelever.net
@@ -5556,7 +5563,6 @@ vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encrypt
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=edge
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&fp=safari&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=http
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&fp=chrome&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=http
@@ -5618,7 +5624,6 @@ vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&fp=safari&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&fp=chrome&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=http
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&fp=chrome&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&fp=firefox&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=http
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&fp=firefox&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=http&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&packetEncoding=xudp&alpn=h2&sni=api.bakarova-top.ru&fp=firefox&mode=packet-up&encryption=none
@@ -5626,7 +5631,6 @@ vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&ty
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=http&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=chrome
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&packetEncoding=xudp&alpn=h2&sni=api.bakarova-top.ru&fp=firefox&mode=packet-up&encryption=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&fp=firefox&mode=packet-up&encryption=none
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=/api/v2/events&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=chrome
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=http&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=chrome&alpn=h2&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=http&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=ios&alpn=h2&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=http&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=safari&alpn=h2&headerType=none&mode=packet-up
@@ -5652,16 +5656,14 @@ vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=http&secur
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=http&security=tls&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=chrome&alpn=h2&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=ios&alpn=h2&headerType=none&mode=packet-up
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=safari&alpn=h2&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&fp=safari&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=edge&headerType=none&mode=packet-up
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=firefox&alpn=h2&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=ios&alpn=h2&headerType=none
+vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=ios&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=qq&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&fp=safari&alpn=h2&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&fp=chrome&headerType=none
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&fp=firefox&headerType=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&fp=ios&headerType=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&fp=safari&headerType=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up
@@ -5672,8 +5674,6 @@ vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&secu
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=ios&headerType=none&mode=packet-up
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=qq&headerType=none
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=safari&alpn=h2&headerType=none
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&fp=safari&headerType=none
-vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=/api/v2/events&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=chrome
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&path=/api/v2/events&sni=static.bakarova-top.ru
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.108:443?mode=auto&security=reality&encryption=none&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&type=http&sni=savesafe.top&sid=def9b800fb6a3ddb
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.123:443?mode=auto&security=reality&encryption=none&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&type=http&sni=savesafe.top&sid=def9b800fb6a3ddb
@@ -5753,13 +5753,10 @@ vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@ct.877774.xyz:443?type=ws&security=
 vless://f1f7b063-621c-48fb-9091-81ad5f3a2213@www.visa.com.hk:443?type=ws&security=tls&fp=random&sni=ap-south.862400.xyz&host=ap-south.862400.xyz
 vless://f1ff46aa-7ef1-490e-910e-c5653dc8d7ae@5.104.74.173:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp
 vless://f1ff46aa-7ef1-490e-910e-c5653dc8d7ae@5.104.74.188:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp
-vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?security=tls&sni=ru1.cdn-space.org&alpn=h2&fp=firefox&type=xhttp&path=%2Fassets%2Fapi%2Fv3%2Fconnect%2F&host=ru1.cdn-space.org&mode=auto
 vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?security=tls&sni=ru1.cdn-space.org&alpn=h2&type=http&path=%2Fassets%2Fapi%2Fv3%2Fconnect%2F&host=ru1.cdn-space.org&mode=auto&fp=chrome
 vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?security=tls&sni=ru1.cdn-space.org&alpn=h2&type=http&path=%2Fassets%2Fapi%2Fv3%2Fconnect%2F&host=ru1.cdn-space.org&mode=auto&fp=firefox
-vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?security=tls&sni=ru1.cdn-space.org&alpn=h2&type=xhttp&path=%2Fassets%2Fapi%2Fv3%2Fconnect%2F&host=ru1.cdn-space.org&mode=auto&fp=chrome
 vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?type=xhttp&security=tls&fp=firefox&sni=ru1.cdn-space.org&path=/assets/api/v3/connect/&host=ru1.cdn-space.org
 vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@185.173.179.218:443?type=xhttp&security=tls&fp=firefox&sni=ru1.cdn-space.org&path=/assets/api/v3/connect/&host=ru1.cdn-space.org&mode=auto
-vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@ru1.cdn-space.org:443?encryption=none&type=xhttp&path=%2Fassets%2Fapi%2Fv3%2Fconnect%2F&host=ru1.cdn-space.org&mode=auto&security=tls&sni=ru1.cdn-space.org&alpn=h2&fp=edge
 vless://f219ffe2-bc36-495f-a83d-8f9ac4af05fd@ru1.cdn-space.org:443?type=xhttp&security=tls&fp=edge&sni=ru1.cdn-space.org&path=/assets/api/v3/connect/&host=ru1.cdn-space.org&mode=auto
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p11real2.greewebservices.ir:1040?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=e3085d4fc679ba12
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1real4.greewebservices.ir:1260?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=9b60d3
@@ -5893,6 +5890,7 @@ vless://fa45096d-bed0-ad80-c773-23c300000003@172.67.134.136:443?&security=tls&sn
 vless://fa45096d-bed0-ad80-c773-23c300000003@172.67.134.136:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=%2F
 vless://fa45096d-bed0-ad80-c773-23c30000001b@172.67.209.13:443?security=tls&type=ws&path=%2Fsync&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&packetEncoding=xudp&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome
 vless://fa56e092-0ca7-4e8f-a856-8e86a73c2753@13.115.149.143:46074?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Zpe4RNze71UGv-T9y55k31k9BtY7gS7uvRV5aA7eiWQ&sid=367e3031&sni=www.apple.com
+vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/vless-xhttp&security=reality&encryption=none&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&fp=chrome&type=xhttp&sni=codifyr.ru&sid=d16860c57700c886
 vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:443?encryption=none&mode=auto&path=%2Fvless-xhttp&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&security=reality&sid=d16860c57700c886&sni=codifyr.ru&type=http&fp=chrome
 vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:443?encryption=none&mode=auto&path=%2Fvless-xhttp&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&security=reality&sid=d16860c57700c886&sni=codifyr.ru&type=http&fp=firefox
 vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:443?encryption=none&mode=auto&path=%2Fvless-xhttp&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&security=reality&sid=d16860c57700c886&sni=codifyr.ru&type=http&fp=ios
